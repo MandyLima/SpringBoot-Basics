@@ -27,24 +27,19 @@ Aprendi através deste excelente vídeo no YouTube:
 ## 🛠️ Tecnologias Utilizadas
 Java 17
 
-Spring Boot
-
-Maven
-
-IntelliJ IDEA
+- Spring Boot
+- Maven
+- IntelliJ IDEA
 
 ---
 
 ## ✨ O que eu aprendi
-Como estruturar um projeto Spring Boot
 
-Como criar rotas HTTP com @RestController
-
-Como usar @RequestBody, @RequestParam e @PathVariable
-
-Conceitos iniciais de injeção de dependência
-
-Separar o código em camadas de responsabilidade (Controller, Service, Domain)
+- Como estruturar um projeto Spring Boot
+- Como criar rotas HTTP com @RestController
+- Como usar @RequestBody, @RequestParam e @PathVariable
+- Conceitos iniciais de injeção de dependência
+- Separar o código em camadas de responsabilidade (Controller, Service, Domain)
 
 ## 📁 Estrutura do Projeto
 ```bash
