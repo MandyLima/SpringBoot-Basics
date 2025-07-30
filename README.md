@@ -25,8 +25,8 @@ Aprendi através deste excelente vídeo no YouTube:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-Java 17
 
+- Java 17
 - Spring Boot
 - Maven
 - IntelliJ IDEA
