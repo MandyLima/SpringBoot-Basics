@@ -16,7 +16,38 @@ O principal objetivo foi imprimir na tela o clássico **Hello World**, entendend
 
 ---
 
+
+
+## 🎥 Vídeo de Estudo
+Aprendi através deste excelente vídeo no YouTube:
+📺 Spring Boot para Iniciantes
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+Java 17
+
+Spring Boot
+
+Maven
+
+IntelliJ IDEA
+
+---
+
+## ✨ O que eu aprendi
+Como estruturar um projeto Spring Boot
+
+Como criar rotas HTTP com @RestController
+
+Como usar @RequestBody, @RequestParam e @PathVariable
+
+Conceitos iniciais de injeção de dependência
+
+Separar o código em camadas de responsabilidade (Controller, Service, Domain)
+
 ## 📁 Estrutura do Projeto
+```bash
 
 src/
 ├── main/
@@ -41,32 +72,4 @@ src/
 │       └── com.kipper.first_spring_app/
 │           └── FirstSpringAppApplicationTests.java
 
----
 
-##🎥 Vídeo de Estudo
-Aprendi através deste excelente vídeo no YouTube:
-📺 Spring Boot para Iniciantes
-
----
-
-##🛠️ Tecnologias Utilizadas
-Java 17
-
-Spring Boot
-
-Maven
-
-IntelliJ IDEA
-
----
-
-##✨ O que eu aprendi
-Como estruturar um projeto Spring Boot
-
-Como criar rotas HTTP com @RestController
-
-Como usar @RequestBody, @RequestParam e @PathVariable
-
-Conceitos iniciais de injeção de dependência
-
-Separar o código em camadas de responsabilidade (Controller, Service, Domain)
