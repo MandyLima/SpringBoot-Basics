@@ -20,8 +20,8 @@ O principal objetivo foi imprimir na tela o clássico **Hello World**, entendend
 
 ## 🎥 Vídeo de Estudo
 Aprendi através deste excelente vídeo no YouTube:
-📺 Spring Boot para Iniciantes
-
+[📺 Spring Boot para Iniciantes
+](https://youtu.be/YY_hf0FOIcU?si=yasepl4fQianRqMG)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
